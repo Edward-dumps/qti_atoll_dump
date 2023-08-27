@@ -1,0 +1,14 @@
+# qssi-userdebug 10 QKQ1.190929.002 eng.lnxbui.20191003.124723 test-keys
+- manufacturer: qualcomm
+- platform: atoll
+- codename: atoll
+- flavor: qssi-userdebug
+- release: 10
+- id: QKQ1.190929.002
+- incremental: eng.lnxbui.20191003.124723
+- tags: test-keys
+- fingerprint: qti/atoll/atoll:10/QKQ1.190929.002/lnxbuild10031322:userdebug/test-keys
+- is_ab: true
+- brand: qti
+- branch: qssi-userdebug-10-QKQ1.190929.002-eng.lnxbui.20191003.124723-test-keys
+- repo: qti_atoll_dump
